@@ -1,5 +1,5 @@
-#Hi! My name is Filipe!🤠
-##FullStack Developer💪🏽
+<h3>Hi! My name is Filipe!🤠</h3>
+<h1>FullStack Developer💪🏽</h1>
 
 
 <!--

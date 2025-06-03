@@ -1,7 +1,10 @@
 <h3>Hi! My name is Filipe!🤠</h3>
 <h1>FullStack Developer💪🏽</h1>
-
-
+<div>
+  <a href="https://github.com/FilipeOliveira65">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeOliveira65&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeOliveira65&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <!--
 **FilipeOliveira65/FilipeOliveira65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
